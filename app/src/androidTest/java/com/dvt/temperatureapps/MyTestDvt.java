@@ -40,9 +40,4 @@ public class MyTestDvt {
         Intents.release();
     }
 
-
-
-
-
-
 }
